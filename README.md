@@ -23,4 +23,4 @@ In summary, when there are fewer calculations, in this scenario, the multi-threa
 At 20,000 cubes the GPU still provides a passable FPS, whereas the CPU falls to less than < 10 fps. 
 
 **Running the code**
-Download, open the sln file (Windows / Visual Studio required). Run in **relase** mode. 
+Download, open the sln file (Windows / Visual Studio required). Run in **release** mode. 
