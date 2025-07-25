@@ -21,3 +21,6 @@ GPU: NVidia RTX 3700 Ti
 In summary, when there are fewer calculations, in this scenario, the multi-threaded CPU is more performant. This is possibly due to bottlenecks in firing up the compute shader. When the number of cubes > 2000, the compute shader performs increasingly better. 
 
 At 20,000 cubes the GPU still provides a passable FPS, whereas the CPU falls to less than < 10 fps. 
+
+**Running the code**
+Download, open the sln file (Windows / Visual Studio required). Run in **relase** mode. 
