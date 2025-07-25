@@ -1,5 +1,7 @@
 # Collision-a-tron
-A simple collider manager which does simple (not perfect) collisions between non-rotating cubes.  
+A cube collider with simple (not perfect) collisions between non-rotating cubes.  
+
+The purpose of this project is to evaluate the performance of different methods of parallelisation. 
 
 The collisions are *purposely* NOT OPTIMISED - no octrees etc. The idea is to generate a large amount of work.   
 
