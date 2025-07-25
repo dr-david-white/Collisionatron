@@ -1,4 +1,4 @@
-<img width="647" height="176" alt="image" src="https://github.com/user-attachments/assets/3588aaf3-8a68-428d-93a3-036848ff07d4" /># Collision-a-tron
+# Collision-a-tron
 A cube collider with simple (not perfect) collisions between non-rotating cubes.  
 
 The purpose of this project is to evaluate the performance of different methods of parallelisation. 
